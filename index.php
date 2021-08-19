@@ -12,6 +12,7 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+    <strong>adsa</strong>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
